@@ -1,0 +1,28 @@
+body{
+    font-family       : sans-serif;
+    font-size         : 15pt;
+    background-color  : #760f0f;
+    color             : #edfaff;
+    text-align: center;
+}
+
+header{
+    background-color: #000000;
+    color: #000000;
+    font-size: 20mm;
+    font-weight: bolder;
+    text-align: center;
+    padding: 20px;
+    background-image : url(damierhr.jpg);
+
+}
+footer{
+    background-color: gray;
+    background-image : url(damierhr.jpg);
+    color: #000000;
+    text-align: center;
+}
+
+form{
+    padding: 20px;
+}
